@@ -1,0 +1,16 @@
+{
+	"name": "roeltz/london",
+	"autoload": {
+		"psr-0": {
+			"London\\": "src"
+		},
+		"files": [
+			"src/London/Action/defaults.php",
+			"src/London/Config/defaults.php",
+			"src/London/HTTP/defaults.php",
+			"src/London/Locale/defaults.php",
+			"src/London/Locale/underscore.php",
+			"src/London/ORM/defaults.php"
+		]
+	}
+}
